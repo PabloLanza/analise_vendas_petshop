@@ -1,0 +1,100 @@
+id_cliente,nome,telefone,endereco,bairro,cpf
+1,Lucas Araujo,11122233300,Rua das Amoras,Bairro Elefantes,00012345600
+2,Gabriel Oliveira,11122233301,Rua das Bananas,Bairro Cobras,00012345601
+3,Pedro Henrique,11122233302,Rua das Mangas,Bairro Rinocerontes,00012345602
+4,Matheus Silva,11122233303,Rua das Laranjas,Bairro Lobos,00012345603
+5,Joao Carvalho,11122233304,Rua dos Abacaxis,Bairro Raposas,00012345604
+6,Rafael Santos,11122233305,Rua das Uvas,Bairro Raposas,00012345605
+7,Gustavo Almeida,11122233306,Rua dos Morangos,Bairro Onças,00012345606
+8,Felipe Costa,11122233307,Rua das Goiabas,Bairro Ursos,00012345607
+9,Bruno Ferreira,11122233308,Rua dos Limões,Bairro Rinocerontes,00012345608
+10,Leonardo Rodrigues,11122233309,Rua das Acerolas,Bairro Raposas,00012345609
+11,Carlos Mendes,11122233310,Rua das Jabuticabas,Bairro Falcões,00012345610
+12,Thiago Ribeiro,11122233311,Rua das Pitangas,Bairro Lobos,00012345611
+13,Andre Martins,11122233312,Rua dos Cajus,Bairro Rinocerontes,00012345612
+14,Daniel Barbosa,11122233313,Rua das Melancias,Bairro Aguias,00012345613
+15,Eduardo Lima,11122233314,Rua dos Maracujás,Bairro Tigres,00012345614
+16,Marcos Souza,11122233315,Rua das Framboesas,Bairro Lobos,00012345615
+17,Vinicius Rocha,11122233316,Rua dos Mirtilos,Bairro Onças,00012345616
+18,Rodrigo Nunes,11122233317,Rua das Cerejas,Bairro Lobos,00012345617
+19,Diego Castro,11122233318,Rua dos Pêssegos,Bairro Onças,00012345618
+20,Caio Moreira,11122233319,Rua das Peras,Bairro Lobos,00012345619
+21,Henrique Lopes,11122233320,Rua das Maçãs,Bairro Leoes,00012345620
+22,Fernando Dias,11122233321,Rua dos Mamões,Bairro Leoes,00012345621
+23,Guilherme Teixeira,11122233322,Rua dos Figos,Bairro Onças,00012345622
+24,Arthur Correia,11122233323,Rua das Tangerinas,Bairro Gorilas,00012345623
+25,Samuel Vieira,11122233324,Rua dos Kiwis,Bairro Gorilas,00012345624
+26,Murilo Cardoso,11122233325,Rua das Romãs,Bairro Aguias,00012345625
+27,Igor Monteiro,11122233326,Rua dos Abacates,Bairro Lobos,00012345626
+28,Joao Vitor,11122233327,Rua das Ameixas,Bairro Cobras,00012345627
+29,Enzo Ramos,11122233328,Rua das Carambolas,Bairro Gorilas,00012345628
+30,Miguel Duarte,11122233329,Rua dos Cocos,Bairro Onças,00012345629
+31,Davi Batista,11122233330,Rua das Graviolas,Bairro Cobras,00012345630
+32,Bernardo Freitas,11122233331,Rua dos Tamarindos,Bairro Cobras,00012345631
+33,Nicolas Mendes,11122233332,Rua das Pitaias,Bairro Rinocerontes,00012345632
+34,Guilherme Moraes,11122233333,Rua dos Physalis,Bairro Falcões,00012345633
+35,Alexandre Reis,11122233334,Rua das Groselhas,Bairro Rinocerontes,00012345634
+36,Ricardo Fernandes,11122233335,Rua dos Duriões,Bairro Ursos,00012345635
+37,Marcelo Tavares,11122233336,Rua das Nectarinas,Bairro Aguias,00012345636
+38,Wesley Martins,11122233337,Rua dos Damascos,Bairro Cobras,00012345637
+39,Victor Hugo,11122233338,Rua das Lichias,Bairro Cobras,00012345638
+40,Luiz Pereira,11122233339,Rua dos Mangostões,Bairro Falcões,00012345639
+41,Mateus Goncalves,11122233340,Rua das Tâmaras,Bairro Aguias,00012345640
+42,Otavio Barbosa,11122233341,Rua das Seriguelas,Bairro Cobras,00012345641
+43,Diego Andrade,11122233342,Rua dos Ingás,Bairro Cobras,00012345642
+44,Renan Carvalho,11122233343,Rua das Bacabas,Bairro Gorilas,00012345643
+45,Alan Souza,11122233344,Rua dos Buritis,Bairro Aguias,00012345644
+46,Jonathan Melo,11122233345,Rua das Pupunhas,Bairro Elefantes,00012345645
+47,Cristian Lopes,11122233346,Rua dos Pequis,Bairro Cobras,00012345646
+48,Nathan Rodrigues,11122233347,Rua das Atemoias,Bairro Onças,00012345647
+49,Emanuel Santos,11122233348,Rua dos Cambucás,Bairro Cobras,00012345648
+50,Yuri Oliveira,11122233349,Rua das Grumixamas,Bairro Raposas,00012345649
+51,Joao Pedro,11122233350,Rua dos Araçás,Bairro Gorilas,00012345650
+52,Maria Silva,11122233351,Rua dos Jenipapos,Bairro Elefantes,00012345651
+53,Ana Oliveira,11122233352,Rua das Mangabas,Bairro Tigres,00012345652
+54,Juliana Santos,11122233353,Rua dos Muricis,Bairro Cobras,00012345653
+55,Mariana Costa,11122233354,Rua das Cabeludinhas,Bairro Elefantes,00012345654
+56,Camila Ferreira,11122233355,Rua dos Bacuris,Bairro Lobos,00012345655
+57,Beatriz Almeida,11122233356,Rua das Sapotis,Bairro Gorilas,00012345656
+58,Larissa Rodrigues,11122233357,Rua dos Umbus,Bairro Rinocerontes,00012345657
+59,Amanda Souza,11122233358,Rua das Pitombas,Bairro Rinocerontes,00012345658
+60,Isabela Lima,11122233359,Rua dos Oitis,Bairro Lobos,00012345659
+61,Leticia Ribeiro,11122233360,Rua das Guabirobas,Bairro Falcões,00012345660
+62,Gabriela Martins,11122233361,Rua dos Cajás,Bairro Lobos,00012345661
+63,Manuela Carvalho,11122233362,Rua dos Cupuaçus,Bairro Rinocerontes,00012345662
+64,Luana Mendes,11122233363,Rua dos Açaís,Bairro Gorilas,00012345663
+65,Rafaela Castro,11122233364,Rua das Castanhas,Bairro Raposas,00012345664
+66,Carolina Rocha,11122233365,Rua dos Pinhas,Bairro Raposas,00012345665
+67,Fernanda Nunes,11122233366,Rua das Melões,Bairro Tigres,00012345666
+68,Bruna Dias,11122233367,Rua das Laranjeiras,Bairro Rinocerontes,00012345667
+69,Bianca Teixeira,11122233368,Rua dos Limões-Sicilianos,Bairro Aguias,00012345668
+70,Aline Correia,11122233369,Rua das Tangerineiras,Bairro Falcões,00012345669
+71,Vanessa Vieira,11122233370,Rua dos Pessegueiros,Bairro Rinocerontes,00012345670
+72,Natalia Cardoso,11122233371,Rua das Macieiras,Bairro Rinocerontes,00012345671
+73,Patricia Monteiro,11122233372,Rua das Pereiras,Bairro Aguias,00012345672
+74,Jessica Ramos,11122233373,Rua dos Morangueiros,Bairro Onças,00012345673
+75,Renata Duarte,11122233374,Rua das Cerejeiras,Bairro Ursos,00012345674
+76,Clara Batista,11122233375,Rua dos Abacateiros,Bairro Leoes,00012345675
+77,Helena Freitas,11122233376,Rua das Mangueiras,Bairro Falcões,00012345676
+78,Laura Moraes,11122233377,Rua dos Coqueiros,Bairro Falcões,00012345677
+79,Valentina Reis,11122233378,Rua das Bananeiras,Bairro Falcões,00012345678
+80,Sofia Fernandes,11122233379,Rua das Goiabeiras,Bairro Cobras,00012345679
+81,Alice Tavares,11122233380,Rua dos Maracujazeiros,Bairro Rinocerontes,00012345680
+82,Luiza Pereira,11122233381,Rua das Aceroleiras,Bairro Aguias,00012345681
+83,Yasmin Goncalves,11122233382,Rua das Pitangueiras,Bairro Aguias,00012345682
+84,Eduarda Andrade,11122233383,Rua dos Cajueiros,Bairro Tigres,00012345683
+85,Melissa Melo,11122233384,Rua das Jabuticabeiras,Bairro Tigres,00012345684
+86,Nicole Lopes,11122233385,Rua das Romãzeiras,Bairro Elefantes,00012345685
+87,Heloisa Rodrigues,11122233386,Rua dos Figueirais,Bairro Raposas,00012345686
+88,Isadora Santos,11122233387,Rua das Ameixeiras,Bairro Lobos,00012345687
+89,Cecilia Oliveira,11122233388,Rua dos Mamoeiros,Bairro Cobras,00012345688
+90,Elisa Souza,11122233389,Rua das Caramboleiras,Bairro Onças,00012345689
+91,Agatha Lima,11122233390,Rua das Frutas Vermelhas,Bairro Lobos,00012345690
+92,Lorena Ribeiro,11122233391,Rua dos Abacaxis Doces,Bairro Gorilas,00012345691
+93,Mirella Martins,11122233392,Rua das Uvas Roxas,Bairro Tigres,00012345692
+94,Sarah Carvalho,11122233393,Rua dos Morangos Silvestres,Bairro Onças,00012345693
+95,Esther Mendes,11122233394,Rua das Mangas Rosadas,Bairro Falcões,00012345694
+96,Valeria Castro,11122233395,Rua dos Limões Verdes,Bairro Tigres,00012345695
+97,Raquel Rocha,11122233396,Rua das Peras Doces,Bairro Raposas,00012345696
+98,Sabrina Nunes,11122233397,Rua das Maçãs Verdes,Bairro Falcões,00012345697
+99,Tatiane Teixeira,11122233398,Rua das Graviolas,Bairro Rinocerontes,00012345698

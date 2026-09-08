@@ -1,0 +1,35 @@
+id_produto,nome,precoCusto,precoVenda,quantidadeEstoque,id_categoria
+1,Ração de Combate,40.11,58.159499999999994,49,1
+2,Ração Premium,68.15,98.81750000000001,90,1
+3,Ração Premium Plus,75.24,109.09799999999998,37,1
+4,Ração Premium Especial,95.35,138.2575,72,1
+5,Ração Super Premium,154.25,223.6625,98,1
+6,Bifinhos,1.54,2.233,88,1
+7,Biscoito,14.5,21.025,22,1
+8,Sache,2.25,3.2624999999999997,32,1
+9,Comedouro/Bebedouro Peq,2.15,3.7624999999999997,23,2
+10,Comedouro/Bebedouro Med,3.35,5.8625,87,2
+11,Comedouro/Bebedouro Grd,5.75,10.0625,76,2
+12,Coleira Couro,6.58,11.515,74,2
+13,Coleira Costura,5.42,9.485,78,2
+14,Guia,8.45,14.787499999999998,58,2
+15,Peitoral,11.58,20.265,25,2
+16,Caminha Peq,54.15,94.7625,22,2
+17,Caminha Med,65.45,114.53750000000001,69,2
+18,Caminha Grd,77.32,135.31,88,2
+19,Brinquedo Hamburguer,4.54,7.945,45,3
+20,Brinquedo Coxinha,4.75,8.3125,100,3
+21,Bolinha Cravo,2.25,3.9375,40,3
+22,Bola Tenis,7.45,13.0375,77,3
+23,Bola Maciça,15.59,27.2825,100,3
+24,Disco,12.45,21.787499999999998,21,3
+25,Macaco de Pelúcia,12.65,22.1375,9,3
+26,Urso de Pelúcia,13.75,24.0625,63,3
+27,Shampoo Clareador,7.99,13.9825,5,4
+28,Shampoo Neutro,7.52,13.16,30,4
+29,Shampoo Melancia,8.52,14.91,93,4
+30,Kit Shampoo e Condicionador,16.45,28.787499999999998,40,4
+31,Escova de Plástico,10.25,17.9375,26,4
+32,Escova de Aço,12.47,21.8225,95,4
+33,Pente,11.25,19.6875,16,4
+34,Colônia,9.89,17.3075,98,4
