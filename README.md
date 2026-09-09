@@ -293,13 +293,13 @@ Através do dashboard, é possível identificar:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/PabloLanza/analise_vendas_petshop
 ```
 
 ### 2. Instalar as dependências
 
 ```bash
-pip install pandas numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ### 3. Executar os scripts
