@@ -69,7 +69,7 @@ A tabela fato de vendas é relacionada às principais dimensões utilizadas na a
 
 ### Tabela fato
 
-**fato_vendas**
+**fato_venda**
 
 * id_venda
 * data
@@ -238,7 +238,7 @@ analise-vendas/
 │   ├── dim_formapagamento.csv
 │   ├── dim_produto.csv
 │   ├── dim_vendedor.csv
-│   └── fato_vendas.csv
+│   └── fato_venda.csv
 │
 ├── scripts/
 │   └── carregamentoTabelas.py
@@ -298,11 +298,11 @@ pip install pandas numpy matplotlib seaborn
 
 ### 3. Executar os scripts
 
-Os scripts presentes na pasta `scripts/` são responsáveis pela geração e preparação dos dados utilizados no projeto.
+Os scripts presentes na pasta `scripts/` e `notebook/` são responsáveis pela geração e preparação dos dados utilizados no projeto.
 
 ### 4. Visualizar o Dashboard
 
-Abra o arquivo `.pbix` presente na pasta `dashboard/` utilizando o **Power BI Desktop**.
+Abra o arquivo `.pbix` presente na pasta `powerbi/` utilizando o **Power BI Desktop**.
 
 ---
 
