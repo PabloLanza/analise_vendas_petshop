@@ -165,6 +165,10 @@ O projeto foi desenvolvido seguindo as seguintes etapas:
 
 O dashboard foi desenvolvido no **Power BI** com foco na análise do desempenho comercial.
 
+![Dashboard de Vendas - Página 1](docs/dashboard.jpg)
+
+![Dashboard de Vendas - Página 2](docs/dashboard1.jpg)
+
 As análises foram organizadas considerando diferentes perspectivas do negócio:
 
 ### 💰 Visão Financeira
@@ -257,6 +261,8 @@ analise-vendas/
 │   ├── dashboard_vendas.pdf
 │   ├── documentacao_modelo.txt
 │   ├── documentacao_modelo.pdf
+│   ├── dashboard.jpg
+│   ├── dashboard1.jpg
 │   └── perguntas_de_negocio.md
 │
 ├── README.md
