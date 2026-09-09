@@ -28,7 +28,7 @@ A análise busca responder perguntas de negócio relacionadas a:
 1. Qual foi o faturamento bruto total?
 2. Qual foi a despesa total com a compra dos produtos?
 3. Qual foi o lucro total?
-4. Qual foi a margem de lucro líquida?
+4. Qual foi a margem de lucro?
 5. Como ocorreu a variação do faturamento e das despesas ao longo do tempo?
 
 ### Metas da Empresa
@@ -243,25 +243,25 @@ analise-vendas/
 ├── scripts/
 │   └── carregamentoTabelas.py
 |
-|__ notebooks/
-|   |__ carregamentoTabelas.ipynb
-|   |── limpeza_tratamento.ipynb
-|
+├── notebooks/
+│   ├── carregamentoTabelas.ipynb
+│   └── limpeza_tratamento.ipynb
+│
 ├── powerbi/
 │   └── dashboard_vendas.pbix
-|
+│
 ├── sql/
 │   └── modelo_fisico.sql
 │
 ├── docs/
 │   ├── dashboard_vendas.pdf
-│   └── documentacao_modelo.txt
-|   |__ documentacao_modelo.pdf
-|   |___perguntas_de_negocio.md
-|
-└── README.md
-└── .env.example
-└── requirements.txt
+│   ├── documentacao_modelo.txt
+│   ├── documentacao_modelo.pdf
+│   └── perguntas_de_negocio.md
+│
+├── README.md
+├── .env.example
+├── requirements.txt
 └── docker-compose.yml
 ```
 
@@ -293,12 +293,12 @@ git clone URL_DO_REPOSITORIO
 ### 2. Instalar as dependências
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib
 ```
 
 ### 3. Executar os scripts
 
-Os scripts presentes na pasta `scripts/` e `notebook/` são responsáveis pela geração e preparação dos dados utilizados no projeto.
+Os scripts presentes na pasta `scripts/` e `notebooks/` são responsáveis pela geração e preparação dos dados utilizados no projeto.
 
 ### 4. Visualizar o Dashboard
 
