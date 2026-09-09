@@ -98,7 +98,7 @@ A tabela fato de vendas é relacionada às principais dimensões utilizadas na a
 * id_cliente
 * nome
 * telefone
-* endereço
+* endereco
 * bairro
 * CPF
 
