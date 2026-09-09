@@ -75,9 +75,9 @@ A tabela fato de vendas é relacionada às principais dimensões utilizadas na a
 * data
 * id_cliente
 * id_vendedor
-* id_formapagamento
+* id_formapag
 * id_produto
-* quantidade_vendida
+* quantidadeVendida
 * desconto
 * custoTotal
 * valorVendaBruta
@@ -86,12 +86,12 @@ A tabela fato de vendas é relacionada às principais dimensões utilizadas na a
 
 **dim_data**
 
-* data_completa
+* dataCompleta
 * dia
-* mês
-* nome_mês
+* mes
+* nomeMes
 * ano
-* dia_semana
+* diaSemana
 
 **dim_cliente**
 
@@ -116,16 +116,16 @@ A tabela fato de vendas é relacionada às principais dimensões utilizadas na a
 
 * id_produto
 * nome
-* descrição
 * precoCusto
 * precoVenda
+* quantidadeEstoque
 * id_categoria
 
 **dim_categoria**
 
 * id_categoria
 * nome
-* descrição
+* descricao
 
 ---
 
